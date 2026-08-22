@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://venn-diagram.vercel.app"),
+  metadataBase: new URL("https://venn-diagram-tool.stephengzy.chatgpt.site"),
   title: "Venn Diagram Tool",
   description: "Create and highlight a Venn diagram with up to five circles.",
   openGraph: {
